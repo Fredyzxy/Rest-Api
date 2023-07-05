@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Fredyzxy'  //Isi creator 
-global.MONGO_DB_URI = "mongodb+srv://fredyyzxy:<password>@fredyy.54fn2fv.mongodb.net/?retryWrites=true&w=majority"        //Isi Database Mongodb
+global.MONGO_DB_URI = "mongodb+srv://fredyyzxy:ynoktxwfwyewirye@fredyy.54fn2fv.mongodb.net/?retryWrites=true&w=majority"        //Isi Database Mongodb
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //Isi apa aja bebas
 global.your_email = "fredyyzxy@gmail.com"          //Isi Email Untuk Pengiriman Kode
 global.email_password = "ynoktxwfwyewirye"      //Isi Aplikasi Sandi Email Pengeriman Kode
